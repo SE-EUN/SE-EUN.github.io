@@ -19,6 +19,8 @@ categories: "현대시"
 삼월(三月)달 바다가 꽃이 피지 않아서 서글픈  
 나비 허리에 새파란 초생달이 시리다.  
 
+[![sea and butterfly.png](/assets/image/sea and butterfly.png "<바다와 나비> 김기림_책 정보")](http://www.yes24.com/Product/Goods/8981979)
+
 
 ### 02. 바퀴벌레는 진화 중_김기택
 
